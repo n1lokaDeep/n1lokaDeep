@@ -4,7 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF9ECB&center=true&vCenter=true&width=760&lines=%D0%BF%D0%B8%D1%88%D1%83+%D0%BD%D0%B0+Python;%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%8E+%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D1%8B%D0%B5+%D0%B4%D0%B2%D0%B8%D0%B6%D0%BA%D0%B8;%D0%B8%D0%BD%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BC%D0%BE%D0%BB%D1%87%D1%83+%D0%BF%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9ECB&center=true&vCenter=true&width=700&lines=%E0%BC%BB%E2%9C%A7+%D0%B8%D0%BD%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BA%D0%BE%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D1%87%D0%B0%D1%8E+%D0%BF%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8+%E2%9C%A7%E0%BC%B8;Python+%C2%B7+JavaScript+%C2%B7+Linux+%C2%B7+C%2B%2B;%E0%BC%BB%E2%9C%A7+%D0%B4%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%E2%9C%A7%E0%BC%B8" alt="typing"/>
+
+<br/><br/>
+
+<img src="assets/avatar-460.png" width="170" alt="avatar" style="border-radius:50%"/>
 
 <br/><br/>
 
@@ -22,21 +26,27 @@
 
 <div align="center">
 
+### ˗ˏˋ アーリャ ˎˊ˗
+
+*「Ты ведь понимаешь, что я говорю это не просто так…」*
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### ˗ˏˋ обо мне ˎˊ˗
 
 </div>
 
-```python
-class Developer:
-    name      = "n1lokaDeep"
-    language  = ["Python", "немного C++"]
-    focus     = ["шахматный ИИ", "человекоподобные движки", "анализ позиций"]
-    editor    = "то, что под рукой"
-    os        = "Windows + Linux"
-    coffee    = True
-
-    def current_work(self):
-        return "Nova Chess — движок, который играет как человек, а не как робот"
+```js
+const n1lokaDeep = {
+  langs:    ["Python", "JavaScript", "C++"],
+  os:       ["Linux", "Windows"],
+  интересы: ["код", "аниме", "ночные коммиты"],
+  статус:   "иногда кокетничаю по-русски",
+};
 ```
 
 <br/>
@@ -45,15 +55,14 @@ class Developer:
 
 ### ˗ˏˋ стек ˎˊ˗
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,git,github,linux,windows,bash,vscode,html,css,js&theme=dark&perline=12" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,linux,git,github,bash,vscode,html,css&theme=dark&perline=10" alt="stack"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=1a1035" alt="onnx"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=7ad7ff&labelColor=1a1035" alt="numpy"/>
-<img src="https://img.shields.io/badge/Pillow-1a1035?style=for-the-badge&logo=python&logoColor=ff9ecb" alt="pillow"/>
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=1a1035" alt="pytest"/>
-<img src="https://img.shields.io/badge/ruff-261230?style=for-the-badge&logo=ruff&logoColor=ff9ecb" alt="ruff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ff9ecb&labelColor=1a1035" alt="python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a1035" alt="javascript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=7ad7ff&labelColor=1a1035" alt="cplusplus"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=1a1035" alt="linux"/>
 
 </div>
 
@@ -65,8 +74,8 @@ class Developer:
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n1lokaDeep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1035&title_color=ff9ecb&icon_color=7ad7ff&text_color=e8eaed&rank_icon=github" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lokaDeep&layout=compact&langs_count=8&hide_border=true&bg_color=1a1035&title_color=ff9ecb&text_color=e8eaed" alt="languages"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=n1lokaDeep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1035&title_color=ff9ecb&icon_color=7ad7ff&text_color=e8eaed&rank_icon=github" alt="stats"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lokaDeep&layout=compact&langs_count=8&hide_border=true&bg_color=1a1035&title_color=ff9ecb&text_color=e8eaed" alt="languages"/>
 
 <br/><br/>
 
@@ -74,7 +83,7 @@ class Developer:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=n1lokaDeep&bg_color=1a1035&color=ff9ecb&line=7ad7ff&point=ffffff&area=true&hide_border=true&custom_title=%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8" alt="activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=n1lokaDeep&bg_color=1a1035&color=ff9ecb&line=7ad7ff&point=ffffff&area=true&hide_border=true&custom_title=%E2%9C%A7%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C" alt="activity"/>
 
 <br/>
 
@@ -86,7 +95,9 @@ class Developer:
 
 <div align="center">
 
-### ˗ˏˋ змейка ест мои коммиты ˎˊ˗
+### ˗ˏˋ 蛇 ˎˊ˗
+
+*змейка ест мои коммиты*
 
 <br/>
 
@@ -102,47 +113,19 @@ class Developer:
 
 <div align="center">
 
-### ˗ˏˋ избранный проект ˎˊ˗
-
-</div>
-
-<a href="https://github.com/n1lokaDeep/nova-chess">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=n1lokaDeep&repo=nova-chess&hide_border=true&bg_color=1a1035&title_color=ff9ecb&icon_color=7ad7ff&text_color=e8eaed" alt="nova-chess"/>
-</a>
-
-**Nova Chess** — шахматный анализатор с тремя движками.
-
-Два из них предсказывают ходы живых людей (Nova, Maia-2), третий считает объективно лучшее продолжение (Stockfish). Фильтр качества отсеивает ходы, которые человек бы сделал, но которые стоят материала.
-
-Что внутри:
-
-- ONNX-инференс человеческой модели, один проход сети
-- Калибровка порога качества по рейтингу игрока
-- Веб-доска с плавной анимацией фигур и стрелками подсказок
-- График оценки партии по полуходам
-- CLI, тесты, CI на GitHub Actions
-
-`Python` · `ONNX` · `Stockfish` · `Maia-2` · `python-chess`
-
-<br clear="right"/>
-
-<br/>
-
-<div align="center">
-
-### ˗ˏˋ связаться ˎˊ˗
+### ˗ˏˋ 連絡 ˎˊ˗
 
 <br/>
 
 <a href="https://github.com/n1lokaDeep">
   <img src="https://img.shields.io/badge/GitHub-n1lokaDeep-ff9ecb?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1035" alt="github"/>
 </a>
-<a href="https://github.com/n1lokaDeep/nova-chess/issues">
-  <img src="https://img.shields.io/badge/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-7ad7ff?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1035" alt="issues"/>
+<a href="https://github.com/n1lokaDeep?tab=repositories">
+  <img src="https://img.shields.io/badge/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-%D0%B2%D1%81%D0%B5-7ad7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1035" alt="projects"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:7b2d6b,100:c94f8a&height=120&section=footer&fontSize=0" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:7b2d6b,100:c94f8a&height=130&section=footer&fontSize=0" alt="footer"/>
 
 </div>

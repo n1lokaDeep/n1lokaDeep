@@ -137,14 +137,19 @@
   <rect x="330" y="196" width="540" height="2" rx="1" fill="url(#lineFill)"/>
 
   <!-- подпись -->
-  <text x="600" y="240" text-anchor="middle"
+  <text x="600" y="238" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-        font-size="21" fill="#f3d9ea" opacity="0.95">
-    пишу на Python · собираю шахматные движки · иногда молчу по-русски
+        font-size="23" fill="#f3d9ea" opacity="0.95">
+    иногда кокетничаю по-русски
   </text>
-  <text x="600" y="278" text-anchor="middle"
+  <text x="600" y="272" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
         font-size="15" fill="#c9b6e8" opacity="0.8" letter-spacing="4">
-    PYTHON · ONNX · CHESS AI · STOCKFISH
+    PYTHON · JAVASCRIPT · LINUX · C++
+  </text>
+  <text x="600" y="312" text-anchor="middle"
+        font-family="'Yu Gothic', 'Meiryo', 'Segoe UI', sans-serif"
+        font-size="13" fill="#ff9ecb" opacity="0.55" letter-spacing="6">
+        ときどきロシア語でデレる
   </text>
 </svg>
