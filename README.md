@@ -4,21 +4,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9ECB&center=true&vCenter=true&width=700&lines=%E0%BC%BB%E2%9C%A7+%D0%B8%D0%BD%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BA%D0%BE%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D1%87%D0%B0%D1%8E+%D0%BF%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8+%E2%9C%A7%E0%BC%B8;Python+%C2%B7+JavaScript+%C2%B7+Linux+%C2%B7+C%2B%2B;%E0%BC%BB%E2%9C%A7+%D0%B4%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%E2%9C%A7%E0%BC%B8" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9ECB&center=true&vCenter=true&width=720&lines=%E0%BC%BB%E2%9C%A7+%D0%B8%D0%BD%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BA%D0%BE%D0%BA%D0%B5%D1%82%D0%BD%D0%B8%D1%87%D0%B0%D1%8E+%D0%BF%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8+%E2%9C%A7%E0%BC%B8;Python+%C2%B7+JavaScript+%C2%B7+Linux+%C2%B7+C%2B%2B;%E0%BC%BB%E2%9C%A7+%E3%81%8A%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99+%E2%9C%A7%E0%BC%B8" alt="typing"/>
 
 <br/><br/>
 
-<img src="assets/avatar-460.png" width="170" alt="avatar" style="border-radius:50%"/>
+<img src="assets/avatar-460.png" width="180" alt="avatar" style="border-radius:50%"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/n1lokaDeep?tab=followers">
-  <img src="https://img.shields.io/github/followers/n1lokaDeep?label=%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&style=for-the-badge&color=ff9ecb&labelColor=1a1035&logo=github" alt="followers"/>
-</a>
-<a href="https://github.com/n1lokaDeep?tab=repositories">
-  <img src="https://img.shields.io/badge/%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-7ad7ff?style=for-the-badge&labelColor=1a1035&logo=gitbook" alt="repositories"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=n1lokaDeep&style=for-the-badge&color=c9a2ff&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" alt="views"/>
+<img src="https://moe-counter.glitch.me/get/@n1lokaDeep?theme=rule34" alt="counter"/>
 
 </div>
 
@@ -30,13 +24,19 @@
 
 *「Ты ведь понимаешь, что я говорю это не просто так…」*
 
+<img src="https://img.shields.io/badge/%E5%A5%BD%E3%81%8D-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5-ff9ecb?style=flat-square&labelColor=1a1035"/>
+<img src="https://img.shields.io/badge/%E5%A5%BD%E3%81%8D-%D0%BA%D0%BE%D0%B4-7ad7ff?style=flat-square&labelColor=1a1035"/>
+<img src="https://img.shields.io/badge/%E5%A5%BD%E3%81%8D-%D0%BD%D0%BE%D1%87%D1%8C-c9a2ff?style=flat-square&labelColor=1a1035"/>
+
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1035,50:7b2d6b,100:c94f8a&height=3&section=header"/>
+
 <div align="center">
 
-### ˗ˏˋ обо мне ˎˊ˗
+### ˗ˏˋ 自己紹介 ˎˊ˗
 
 </div>
 
@@ -44,12 +44,15 @@
 const n1lokaDeep = {
   langs:    ["Python", "JavaScript", "C++"],
   os:       ["Linux", "Windows"],
-  интересы: ["код", "аниме", "ночные коммиты"],
-  статус:   "иногда кокетничаю по-русски",
+  likes:    ["аниме", "чистый код", "ночные коммиты"],
+  mood:     "иногда кокетничаю по-русски",
+  motto:    "пиши так, чтобы через месяц понял сам",
 };
 ```
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c94f8a,50:7b2d6b,100:1a1035&height=3&section=header"/>
 
 <div align="center">
 
@@ -64,13 +67,21 @@ const n1lokaDeep = {
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=7ad7ff&labelColor=1a1035" alt="cplusplus"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=1a1035" alt="linux"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ff9ecb&labelColor=1a1035" alt="git"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=7ad7ff&labelColor=1a1035" alt="bash"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=c9a2ff&labelColor=1a1035" alt="vscode"/>
+
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1035,50:7b2d6b,100:c94f8a&height=3&section=header"/>
+
 <div align="center">
 
-### ˗ˏˋ статистика ˎˊ˗
+### ˗ˏˋ 統計 ˎˊ˗
 
 <br/>
 
@@ -83,7 +94,7 @@ const n1lokaDeep = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=n1lokaDeep&bg_color=1a1035&color=ff9ecb&line=7ad7ff&point=ffffff&area=true&hide_border=true&custom_title=%E2%9C%A7%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C" alt="activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=n1lokaDeep&bg_color=1a1035&color=ff9ecb&line=7ad7ff&point=ffffff&area=true&hide_border=true&custom_title=%E2%9C%A7%20%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3" alt="activity"/>
 
 <br/>
 
@@ -92,6 +103,8 @@ const n1lokaDeep = {
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c94f8a,50:7b2d6b,100:1a1035&height=3&section=header"/>
 
 <div align="center">
 
@@ -111,6 +124,8 @@ const n1lokaDeep = {
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1035,50:7b2d6b,100:c94f8a&height=3&section=header"/>
+
 <div align="center">
 
 ### ˗ˏˋ 連絡 ˎˊ˗
@@ -121,8 +136,15 @@ const n1lokaDeep = {
   <img src="https://img.shields.io/badge/GitHub-n1lokaDeep-ff9ecb?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1035" alt="github"/>
 </a>
 <a href="https://github.com/n1lokaDeep?tab=repositories">
-  <img src="https://img.shields.io/badge/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-%D0%B2%D1%81%D0%B5-7ad7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1035" alt="projects"/>
+  <img src="https://img.shields.io/badge/%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA-%D0%B2%D1%81%D0%B5-7ad7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1035" alt="repositories"/>
 </a>
+<a href="https://github.com/n1lokaDeep?tab=followers">
+  <img src="https://img.shields.io/badge/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC-%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F-c9a2ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1035" alt="follow"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1200&color=C9A2FF&center=true&vCenter=true&width=520&lines=%E0%BC%BB%E2%9C%A7+%E3%81%BE%E3%81%9F%E3%81%AD+%E2%9C%A7%E0%BC%B8+%C2%B7+%D0%B4%D0%BE+%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+%C2%B7+%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%88%E3%81%86" alt="bye"/>
 
 <br/><br/>
 
