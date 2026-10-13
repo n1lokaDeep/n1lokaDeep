@@ -17,7 +17,7 @@ Python, JavaScript, C++. Цену называю до начала работы 
 [интерактивная модель Солнечной системы](https://n1lokadeep.github.io/solar-system/) ·
 [nova-chess](https://github.com/n1lokaDeep/nova-chess)
 
-**Связь:** kolyastrstr@gmail.com
+**Связь:** [Telegram @omsasal](https://t.me/omsasal) · kolyastrstr@gmail.com
 
 ---
 
