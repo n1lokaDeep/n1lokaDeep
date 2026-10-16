@@ -47,7 +47,10 @@ jobs:
                   lines.append(line)
 
           if changed:
-              open(path, "w", encoding="utf-8").write("\n".join(lines))
+              out = "\n".join(lines)
+              if not out.endswith("\n"):
+                  out += "\n"
+              open(path, "w", encoding="utf-8").write(out)
               print(f"README.md: виджеты обновлены до v={stamp}")
           else:
               print("Изменений нет")
