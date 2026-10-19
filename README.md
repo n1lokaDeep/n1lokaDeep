@@ -108,20 +108,20 @@ const n1lokaDeep = {
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=n1lokaDeep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1035&title_color=ff9ecb&icon_color=7ad7ff&text_color=e8eaed&rank_icon=github&v=20261019T17" alt="stats"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lokaDeep&layout=compact&langs_count=8&hide_border=true&bg_color=1a1035&title_color=ff9ecb&text_color=e8eaed&v=20261019T17" alt="languages"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=n1lokaDeep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1035&title_color=ff9ecb&icon_color=7ad7ff&text_color=e8eaed&rank_icon=github&v=20261019T21" alt="stats"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lokaDeep&layout=compact&langs_count=8&hide_border=true&bg_color=1a1035&title_color=ff9ecb&text_color=e8eaed&v=20261019T21" alt="languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=n1lokaDeep&hide_border=true&background=1a1035&stroke=ff9ecb&ring=ff9ecb&fire=c94f8a&currStreakNum=ffffff&currStreakLabel=7ad7ff&sideNums=e8eaed&sideLabels=c9a2ff&dates=8b93a1&v=20261019T17" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=n1lokaDeep&hide_border=true&background=1a1035&stroke=ff9ecb&ring=ff9ecb&fire=c94f8a&currStreakNum=ffffff&currStreakLabel=7ad7ff&sideNums=e8eaed&sideLabels=c9a2ff&dates=8b93a1&v=20261019T21" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=n1lokaDeep&bg_color=1a1035&color=ff9ecb&line=7ad7ff&point=ffffff&area=true&hide_border=true&custom_title=%E2%9C%A7%20%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3&v=20261019T17" alt="activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=n1lokaDeep&bg_color=1a1035&color=ff9ecb&line=7ad7ff&point=ffffff&area=true&hide_border=true&custom_title=%E2%9C%A7%20%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3&v=20261019T21" alt="activity"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=n1lokaDeep&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&v=20261019T17" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=n1lokaDeep&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&v=20261019T21" alt="trophies"/>
 
 </div>
 
